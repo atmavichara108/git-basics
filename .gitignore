@@ -1,2 +1,17 @@
-v/
-.idea
+# Служебные файлы Python
+__pycache__/
+*.pyc
+.venv/
+
+# Временные файлы Office (создаются, пока документ открыт)
+~$*
+*.tmp
+
+# Системный мусор
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Редакторы
+.idea/
+.vscode/
